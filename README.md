@@ -1,6 +1,6 @@
-# MineCoder
+# mine_coder
 
-A tool to create mod or plugin for minecraft.
+A new Flutter project.
 
 ## Getting Started
 
